@@ -6,7 +6,7 @@ React Native Mobile Application to search stations given city, state abbreviatio
 Using X-Code IOS simulator
 
 ```
-git clone https://github.com/jamesjinlee/CheckDuplicates.git
+git clone https://github.com/jamesjinlee/Volta.git
 cd Volta
 ```
 
